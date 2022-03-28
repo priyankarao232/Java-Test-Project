@@ -8,7 +8,8 @@ public class AddNumbersTest {
 	public void AddNumberTest1() {
 		int a =9;
 		int b=3;
-		int sum= a+b;
+		int c=5;
+		int sum= a+b+c;
 		System.out.println(sum);
 	}
 
