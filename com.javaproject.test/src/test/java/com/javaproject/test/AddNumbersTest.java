@@ -7,12 +7,13 @@ public class AddNumbersTest {
 	@Test
 	public void AddNumberTest1() {
 		int a =9;
-		int b=3;
+		int b=20;
         int c=5;
 		int d=15;
 		int sum= a+b+c+d;
 		System.out.println(sum);
-		//committing to feature 1
+		//committing to feature1
+		//commiting to feature1 changed value of b
 	}
 
 }
